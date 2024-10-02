@@ -1,0 +1,1 @@
+Create a new car for the user based on user input string.
